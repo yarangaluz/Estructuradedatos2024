@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio1", "..\Laboratorio1\Laboratorio1.csproj", "{4D0E3A33-C732-4E1D-984F-C0A5240BA809}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio1", "Laboratorio3\ejercicio1.csproj", "{70EF13DB-BF9C-4E87-A49D-E3BBFC9A1CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1", "Laboratorio3\Ejercicio1.csproj", "{70EF13DB-BF9C-4E87-A49D-E3BBFC9A1CFF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratorio3-4", "Laboratorio3-4", "{3D056792-F2C3-47F7-976D-C889625E5A8C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratorios3-4", "Laboratorios3-4", "{3D056792-F2C3-47F7-976D-C889625E5A8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio2", "ejercicio2\ejercicio2.csproj", "{AAC2BF06-0B62-4FDB-9AAF-A0BE5BE3EF26}"
 EndProject
