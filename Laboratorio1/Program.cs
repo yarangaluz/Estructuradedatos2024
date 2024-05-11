@@ -8,4 +8,4 @@ for ( var i = 1; i <= n; i++ )
 {
     suma += i;
 }
-Console.WriteLine($"La suma de los {n} números es: {suma}");
+Console.WriteLine($"La suma de los {n} números es: {suma} ");
